@@ -119,5 +119,7 @@ except KeyError or AttributeError:
     fruit.remove('shokolad')
 
 
+#Darsimiz_Qachon_Tugaydi_Hojiakbar(My_Stomach)
+
 
 
